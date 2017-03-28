@@ -1,6 +1,6 @@
 # Watergun
 
-![water-gun](https://github.com/kristianmandrup/gun-edge/tree/master/watergun.jpeg)
+![water-gun](https://github.com/kristianmandrup/water-gun/raw/master/watergun.jpeg)
 
 [Gun.js](http://gun.js.org/) extensions for working with Observables/Streams and CSP channels (ie. streams of data/events and flow control models)
 
