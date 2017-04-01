@@ -1,5 +1,7 @@
 # Watergun
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/water-gun.svg)](https://greenkeeper.io/)
+
 ![water-gun](https://github.com/kristianmandrup/water-gun/raw/master/watergun.jpeg)
 
 [Gun.js](http://gun.js.org/) extensions for working with Observables/Streams and CSP channels (ie. streams of data/events and flow control models)
